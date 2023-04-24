@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="Mars10.tests.LoginTest"/>
+      <class name="Mars10.tests.GlobalSearchTest"/>
+      <class name="Mars10.tests.CalendarHeatMapTest"/>
+      <class name="Mars10.tests.RepProfileText"/>
+      <class name="Mars10.tests.AboutMarsTest"/>
+      <class name="Mars10.tests.AddNotes"/>
+      <class name="Mars10.tests.NotificationsTest"/>
+      <class name="Mars10.tests.ReplookupTestF"/>
+      <class name="Mars10.tests.FirmMaintenanceTest"/>
+      <class name="Mars10.tests.AboutMarsSampleTest"/>
+      <class name="Mars10.tests.PreferencesTest"/>
+      <class name="Mars10.tests.LockMaintenanceTest"/>
+      <class name="Mars10.tests.HolidayScheduleTest"/>
+      <class name="Mars10.tests.HelpTest"/>
+      <class name="Mars10.tests.FindRepTest"/>
+      <class name="Mars10.tests.HomePagesTest"/>
+      <class name="Mars10.tests.LogCallTest"/>
+      <class name="Mars10.tests.RepWidgetsWithJsonTest"/>
+      <class name="Mars10.tests.FindRepsSettings"/>
+      <class name="Mars10.tests.SendEmailTest"/>
+      <class name="Mars10.tests.RepWidgetTest"/>
+      <class name="Mars10.tests.UsersVerificationsTest"/>
+      <class name="Mars10.tests.FirmPageTest"/>
+      <class name="Mars10.tests.FirmLookupTest"/>
+      <class name="Mars10.tests.ScheduleMeetingTest"/>
+      <class name="Mars10.tests.ScheduleCallTest"/>
+      <class name="Mars10.tests.showHubTest"/>
+      <class name="Mars10.tests.RepWidgetsWithExcelTest"/>
+      <class name="Mars10.tests.RepLookUpTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
